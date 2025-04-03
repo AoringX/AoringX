@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aaron
 - 👀 I’m interested in Machine Learning, Computer Vision, Full-stack Development
-- 📫 How to reach me: aaronxiong.2004@gmail.com
+- 📫 How to reach me: aaaronx@umich.edu
 
 <!---
  - 🌱 I’m currently learning
